@@ -1,7 +1,7 @@
 <h1 align="center">hello, i'm qatual</h1>
 <h3 align="center">i am a ubg dev / web porter</h3>
 
-- owner @ [solo central](https://solocentral.org) | [repo](https://github.com/solualub/soloub/)
+- owner @ [solo central](https://solocentral.org) | [repo](https://github.com/soloBiB/-)
 
 - owner @ [gallium](https://gallium.buzz)
 
